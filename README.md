@@ -13,6 +13,11 @@ This is a web application that takes a number from a user and returns a range of
 | ----------- | ----------- | ----------- |
 | **Our program should handle:** | **When it receives:** | **It should return:** |
 | Numbers that contain a 3 | 3 | "I'm sorry, Dave. I'm afraid I can't do that." |
+| Numbers that contain a 2 | 2 | "Boop!" |
+| Numbers that contain a 1 | 1 | Beep!" |
+| The number 13 | 13 | "I'm sorry, Dave. I'm afraid I can't do that." |
+| The number 21 | 21 | "Boop." |
+| The number 32 | 32 | "I'm sorry, Dave. I'm afraid I can't do that." |
 
 ## Setup/Installation Requirements
 
