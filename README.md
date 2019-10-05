@@ -11,13 +11,16 @@ This is a web application that takes a number from a user and returns a range of
 ## Specs
 | Behavior     | Input Example | Output Example |
 | ----------- | ----------- | ----------- |
-| **Our program should handle:** | **When it receives:** | **It should return:** |
-| Numbers that contain a 3 | 3 | "I'm sorry, Dave. I'm afraid I can't do that." |
-| Numbers that contain a 2 | 2 | "Boop!" |
-| Numbers that contain a 1 | 1 | Beep!" |
-| The number 13 | 13 | "I'm sorry, Dave. I'm afraid I can't do that." |
-| The number 21 | 21 | "Boop." |
-| The number 32 | 32 | "I'm sorry, Dave. I'm afraid I can't do that." |
+| The program returns a range of numbers from 0 to the users inputted number | 4 | 0, 1, 2, 3, 4 |
+| The program returns _"I'm sorry, Dave. I'm afraid I can't do that."_ for numbers including 3 | 3 | "I'm sorry, Dave. I'm afraid I can't do that." |
+| The program returns _"Boop!"_ for numbers including 2 | 2 | "Boop!" |
+| The program returns _"I'm sorry, Dave. I'm afraid I can't do that."_ for numbers including 2 and 3 | 32 | "I'm sorry, Dave. I'm afraid I can't do that." |
+| The program returns _"Beep!"_ for numbers including 1 | 1 | "Beep!" |
+| The program returns _"Boop!"_ for numbers including 1 and 2 | 21 | "Boop!" |
+| The program returns _"I'm sorry, Dave. I'm afraid I can't do that."_ for numbers including 1 and 3 | 13 | "I'm sorry, Dave. I'm afraid I can't do that." |
+| The program returns _"I'm sorry, Dave. I'm afraid I can't do that."_ for numbers including 1 and 2 and 3 | 123 | "I'm sorry, Dave. I'm afraid I can't do that." |
+
+<!-- | **Our program should handle:** | **When it receives:** | **It should return:** | -->
 
 ## Setup/Installation Requirements
 

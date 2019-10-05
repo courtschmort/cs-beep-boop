@@ -1,5 +1,5 @@
-.results {
-  /* display: none; */
+#results {
+  display: none;
   margin-top: 1rem;
 }
 
