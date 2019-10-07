@@ -3,6 +3,10 @@
   margin-top: 1rem;
 }
 
+.array {
+    font-family: monospace;
+}
+
 .container {
   margin-top: 1rem;
   /* display: Flex;
