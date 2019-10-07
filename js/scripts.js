@@ -29,6 +29,8 @@ $(document).ready(function() {
   });
 });
 
+// The following is WIP:
+//
 // // business logic
 // // function newFunction(numbers) {
 // //
