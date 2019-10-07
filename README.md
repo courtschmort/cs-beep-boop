@@ -1,6 +1,6 @@
 # Beep Boop
 
-#### Arrays & Looping Independent Project for Epicodus, October 4, 2019
+#### Arrays & Looping Independent Project for Epicodus, October 6, 2019
 
 #### By Courtney Schild
 
