@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a web application that takes a number from a user and returns a range of numbers from 0 to the user inputted number.
+This is a web application that takes a number from a user and returns a range of numbers from 0 to the user inputted number with exceptions as listed in **Specs** below.
 
 ## Specs
 | Behavior     | Input Example | Output Example |
